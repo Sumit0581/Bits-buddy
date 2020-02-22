@@ -1,0 +1,2787 @@
+{
+  "bhawans" : {
+    "Ashok Bhawan" : {
+      "Chowkidaar" : {
+        "area" : "Ashok Bhawan",
+        "contact" : "+91-8769640715",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Vikram Singh"
+      },
+      "Hostel Representative" : {
+        "area" : "Ashok Bhawan",
+        "contact" : "+91-8225082460",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Arun Singh Tomar",
+        "room" : "AK-130"
+      },
+      "Superintendent" : {
+        "area" : "Ashok Bhawan",
+        "contact" : "+91-9694096466",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Kailash Nath Duggal"
+      },
+      "Warden" : {
+        "area" : "Ashok Bhawan",
+        "contact" : "+91-7737266378",
+        "img" : "https://www.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Pilani/kumar.bhattacharya/Microcontent/2012-9-20--22-4-43-957_Grad_2.jpg",
+        "name" : "Dr. Kumar Shankar Bhattacharya"
+      }
+    },
+    "Bhagirath Bhawan" : {
+      "Chowkidaar" : {
+        "area" : "Bhagirath Bhawan",
+        "contact" : "+91-9928327924",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Babu Lal"
+      },
+      "Hostel Representative" : {
+        "area" : "Bhagirath Bhawan",
+        "contact" : "+91-8082800777",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Keval Nandu",
+        "room" : "BG-120"
+      },
+      "Superintendent" : {
+        "area" : "Bhagirath Bhawan",
+        "contact" : "+91-9694096473",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Samunder Singh"
+      },
+      "Warden" : {
+        "area" : "Bhagirath Bhawan",
+        "contact" : "+91-9694196400",
+        "img" : "https://www.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Microcontent/2012-1-23--15-49-25-903_patel.jpg",
+        "name" : "Dr. Shuvendu N Patel"
+      }
+    },
+    "Budh Bhawan" : {
+      "Chowkidaar" : {
+        "area" : "Budh Bhawan",
+        "contact" : "+91-7665156385",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Raghuveer Singh"
+      },
+      "Hostel Representative" : {
+        "area" : "Budh Bhawan",
+        "contact" : "+91-9346758890",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Konepalli Bhanu Prakash Reddy",
+        "room" : "BD-2109"
+      },
+      "Superintendent" : {
+        "area" : "Budh Bhawan",
+        "contact" : "+91-9694096474",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Ranvir Singh Rathore"
+      },
+      "Warden" : {
+        "area" : "Budh Bhawan",
+        "contact" : "+91-9351150986",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Dr. Sharad Srivastava"
+      }
+    },
+    "CV Raman Bhawan" : {
+      "Chowkidaar" : {
+        "area" : "CV Raman Bhawan",
+        "contact" : "N.A",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "N.A"
+      },
+      "Hostel Representative" : {
+        "area" : "CV Raman Bhawan",
+        "contact" : "+91-8962640775",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Anmol Awasthi",
+        "room" : "CVR-3212"
+      },
+      "Superintendent" : {
+        "area" : "CV Raman Bhawan",
+        "contact" : "+91-9785644053",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Harbans Lal"
+      },
+      "Warden" : {
+        "area" : "CV Raman Bhawan",
+        "contact" : "+91-1596-55688",
+        "img" : "https://www.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Pilani/shuklap/Microcontent/2015-3-8--18-58-8-543_my_foto_nov2014.jpg",
+        "name" : "Dr. Paritosh Shukla"
+      }
+    },
+    "Gandhi Bhawan" : {
+      "Chowkidaar" : {
+        "area" : "Gandhi Bhawan",
+        "contact" : "+91-9929110686",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Bhagu Khan"
+      },
+      "Hostel Representative" : {
+        "area" : "Gandhi Bhawan",
+        "contact" : "+91-8750366868",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Vaibhav Kaushik",
+        "room" : "GN-3143"
+      },
+      "Superintendent" : {
+        "area" : "Gandhi Bhawan",
+        "contact" : "+91-6964069485",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Sanjay Kumar Tomar"
+      },
+      "Warden" : {
+        "area" : "Gandhi Bhawan",
+        "contact" : "+91-9694096452",
+        "img" : "https://www.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Pilani/nitin80/Microcontent/2016-10-26--14-57-44-275_nitin.jpg",
+        "name" : "Dr. Nitin Chaturvedi"
+      }
+    },
+    "Krishna Bhawan" : {
+      "Chowkidaar" : {
+        "area" : "Krishna Bhawan",
+        "contact" : "+91-8766182005",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Jai Singh"
+      },
+      "Hostel Representative" : {
+        "area" : "Krishna Bhawan",
+        "contact" : "+91-9131322530",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Sanyam Jain",
+        "room" : "KR-3155"
+      },
+      "Superintendent" : {
+        "area" : "Krishna Bhawan",
+        "contact" : "+91-9785644053",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Harbans Lal"
+      },
+      "Warden" : {
+        "area" : "Krishna Bhawan",
+        "contact" : "+91-9414082757",
+        "img" : "https://www.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Pilani/arunjalan/Microcontent/2012-8-9--19-44-2-624_your_image.png",
+        "name" : "Dr. Arun Kumar Jalan"
+      }
+    },
+    "Malviya Bhawan" : {
+      "Chowkidaar" : {
+        "area" : "Malviya Bhawan (A and B)",
+        "contact" : "+91-8107353882",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Dalip Singh"
+      },
+      "Hostel Representative" : {
+        "area" : "Malviya Bhawan (A and B)",
+        "contact" : "+91-9000950070",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Egna Praneeth",
+        "room" : "ML-2162"
+      },
+      "Superintendent" : {
+        "area" : "Malviya Bhawan (A and B)",
+        "contact" : "+91-9694086465",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Rohitashwa Singh"
+      },
+      "Warden" : {
+        "area" : "Malviya Bhawan (A and B)",
+        "contact" : "+91-9468675801",
+        "img" : "https://www.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Pilani/tmathur/Microcontent/2014-5-22--13-4-34-310_20140321_110958.jpg",
+        "name" : "Dr. Trilok Mathur"
+      }
+    },
+    "Malviya Bhawan(C Block)" : {
+      "Chowkidaar" : {
+        "area" : "Malviya Bhawan C Block",
+        "contact" : "N.A",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "N.A"
+      },
+      "Hostel Representative" : {
+        "area" : "Malviya Bhawan C Block",
+        "contact" : "+91-9762069291",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Deepak Gadakh",
+        "room" : "MAL-3304"
+      },
+      "Superintendent" : {
+        "area" : "Malviya Bhawan C Block",
+        "contact" : "+91-9694096474",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Ranvir Singh Rathore"
+      },
+      "Warden" : {
+        "area" : "Malviya Bhawan C Block",
+        "contact" : "+91-9468675801",
+        "img" : "https://www.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Pilani/tmathur/Microcontent/2014-5-22--13-4-34-310_20140321_110958.jpg",
+        "name" : "Dr. Trilok Mathur"
+      }
+    },
+    "Malviya Studio Apartments" : {
+      "Chowkidaar" : {
+        "area" : "Malviya Studio Apartments",
+        "contact" : "N.A",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "N.A"
+      },
+      "Hostel Representative" : {
+        "area" : "Malviya Studio Apartments",
+        "contact" : "+91-9762069291",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Deepak Gadakh",
+        "room" : "MAL-3304"
+      },
+      "Superintendent" : {
+        "area" : "Malviya Studio Apartments",
+        "contact" : "+91-9694096464",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Mahaveer Singh"
+      },
+      "Warden" : {
+        "area" : "Malviya Studio Apartments",
+        "contact" : "+91-9468675801",
+        "img" : "https://www.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Pilani/tmathur/Microcontent/2014-5-22--13-4-34-310_20140321_110958.jpg",
+        "name" : "Dr. Trilok Mathur"
+      }
+    },
+    "Meera Bhawan" : {
+      "Chowkidaar" : [ {
+        "area" : "Meera Bhawan",
+        "contact" : "+91-7737673430",
+        "img" : "https://i.imgur.com/RHfulHP.jpg",
+        "name" : "Saroj"
+      }, {
+        "area" : "Meera Bhawan",
+        "contact" : "+91-9982440023",
+        "img" : "https://i.imgur.com/RHfulHP.jpg",
+        "name" : "Manju"
+      } ],
+      "Hostel Representative" : [ {
+        "area" : "Meera Bhawan - 1",
+        "contact" : "+91-9818059026",
+        "img" : "https://i.imgur.com/RHfulHP.jpg",
+        "name" : "Esha Pahwa",
+        "room" : "Meera 9114"
+      }, {
+        "area" : "Meera Bhawan - 2",
+        "contact" : "+91-8919641598",
+        "img" : "https://i.imgur.com/RHfulHP.jpg",
+        "name" : "Likitha Madala",
+        "room" : "Meera 220"
+      } ],
+      "Superintendent" : [ {
+        "area" : "Meera Bhawan",
+        "contact" : "+91-9694096468",
+        "img" : "https://i.imgur.com/RHfulHP.jpg",
+        "name" : "Ritu"
+      }, {
+        "area" : "Meera Bhawan",
+        "contact" : "+91-9694096469",
+        "img" : "https://i.imgur.com/RHfulHP.jpg",
+        "name" : "Mallika Upadhyaya"
+      } ],
+      "Warden" : [ {
+        "area" : "Meera Bhawan",
+        "contact" : "+91-9694096462",
+        "img" : "https://www.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Pilani/kusum/Microcontent/2013-1-10--12-18-54-978_klata.jpg",
+        "name" : "Dr. Kusum Lata"
+      }, {
+        "area" : "Meera Bhawan",
+        "contact" : "+91-9694096461",
+        "img" : "https://i.imgur.com/RHfulHP.jpg",
+        "name" : "Dr. Surekha Bhanot"
+      } ]
+    },
+    "Ram Bhawan" : {
+      "Chowkidaar" : {
+        "area" : "Ram Bhawan",
+        "contact" : "+91-9636141891",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Prathvi Singh"
+      },
+      "Hostel Representative" : {
+        "area" : "Ram Bhawan",
+        "contact" : "+91-9687936729",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Reventh Sharma",
+        "room" : "RM-1103"
+      },
+      "Superintendent" : {
+        "area" : "Ram Bhawan",
+        "contact" : "+91-9694086465",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Rohitashwa Singh"
+      },
+      "Warden" : {
+        "area" : "Ram Bhawan",
+        "contact" : "+91-9694096490",
+        "img" : "https://www.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Pilani/dbhunia/Microcontent/2012-8-9--21-59-48-488_DSC01441.jpg",
+        "name" : "Dr. Dipendu Bhunia"
+      }
+    },
+    "Rana Pratap Bhawan" : {
+      "Chowkidaar" : {
+        "area" : "Rana Pratap Bhawan",
+        "contact" : "N.A",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "N.A"
+      },
+      "Hostel Representative" : {
+        "area" : "Rana Pratap Bhawan",
+        "contact" : "+91-9983778009",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Kumar Shivam",
+        "room" : "RP-116"
+      },
+      "Superintendent" : {
+        "area" : "Rana Pratap Bhawan",
+        "contact" : "+91-9694096466",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Kailash Nath Duggal"
+      },
+      "Warden" : {
+        "area" : "Rana Pratap Bhawan",
+        "contact" : "+91-9950210650",
+        "img" : "https://www.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Pilani/amolmm/Microcontent/2013-4-20--23-16-51-289_profile.jpg",
+        "name" : "Dr. Amol M Marathe"
+      }
+    },
+    "Shankar Bhawan" : {
+      "Chowkidaar" : {
+        "area" : "Shankar Bhawan",
+        "contact" : "+91-9828661910",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Karan Singh"
+      },
+      "Hostel Representative" : {
+        "area" : "Shankar Bhawan",
+        "contact" : "+91-8979141998",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Saksham Agarwal",
+        "room" : "SK-2146"
+      },
+      "Superintendent" : {
+        "area" : "Shankar Bhawan",
+        "contact" : "+91-9694096473",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Samunder Singh"
+      },
+      "Warden" : {
+        "area" : "Shankar Bhawan",
+        "contact" : "+91-8239703734",
+        "img" : "https://www.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Pilani/skdubey/Microcontent/2016-10-31--12-32-46-35_Snap_Profile.jpg",
+        "name" : "Dr. Sunil Kumar Dubey"
+      }
+    },
+    "Srinivasa Ramanujam Bhawan" : {
+      "Chowkidaar" : {
+        "area" : "Srinivasa Ramanujam Bhawan",
+        "contact" : "+91-7231066148",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Vidyadhar"
+      },
+      "Hostel Representative" : [ {
+        "area" : "Srinivasa Ramanujam Bhawan (A and B)",
+        "contact" : "+91-9836458276",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Shayan Majumder",
+        "room" : "SR-218"
+      }, {
+        "area" : "Srinivasa Ramanujam Bhawan (C and D)",
+        "contact" : "+91-7390967807",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Harsh Shukla",
+        "room" : "SR-314"
+      } ],
+      "Superintendent" : {
+        "area" : "Srinivasa Ramanujam Bhawan",
+        "contact" : "+91-9694096464",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Mahaveer Singh"
+      },
+      "Warden" : {
+        "area" : "Srinivasa Ramanujam Bhawan",
+        "contact" : "+91-9414082754",
+        "img" : "https://www.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Pilani/krishna/Microcontent/2015-3-16--22-57-10-958_WP_20150127_09_38_06_Pro.jpg",
+        "name" : "Dr. Krishna M."
+      }
+    },
+    "Vishwakarma Bhawan" : {
+      "Chowkidaar" : {
+        "area" : "Vishwakarma Bhawan",
+        "contact" : "+91-8769366142",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Omvir Singh"
+      },
+      "Hostel Representative" : {
+        "area" : "Vishwakarma Bhawan",
+        "contact" : "+91-8745085484",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Aman Shukla",
+        "room" : "VK-227"
+      },
+      "Superintendent" : {
+        "area" : "Vishwakarma Bhawan",
+        "contact" : "+91-9694096466",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Kailash Nath Duggal"
+      },
+      "Warden" : {
+        "area" : "Vishwakarma Bhawan",
+        "contact" : "+91-9468839182",
+        "img" : "https://www.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Pilani/kshekhawat/Microcontent/2018-9-25--11-15-45-272_42163171_10204854036386358_673226279582957568_o.jpg",
+        "name" : "Dr. Krishnendra Shekhawat"
+      }
+    },
+    "Vyas Bhawan" : {
+      "Chowkidaar" : {
+        "area" : "Vyas Bhawan",
+        "contact" : "N.A",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "N.A"
+      },
+      "Hostel Representative" : {
+        "area" : "Vyas Bhawan",
+        "contact" : "N.A",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "N.A"
+      },
+      "Superintendent" : {
+        "area" : "Vyas Bhawan",
+        "contact" : "N.A",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "N.A"
+      },
+      "Warden" : {
+        "area" : "Vyas Bhawan",
+        "contact" : "823 - 9703 - 734",
+        "img" : "https://www.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Pilani/skdubey/Microcontent/2016-10-31--12-32-46-35_Snap_Profile.jpg",
+        "name" : "Dr. Sunil Kumar Dubey"
+      }
+    }
+  },
+  "departments" : {
+    "AUGSD" : {
+      "Dean" : {
+        "contact" : "91-1596-255-235",
+        "img" : "https://www.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Pilani/aps/Microcontent/2016-4-17--16-53-16-719_Passport_size_3.5X4.5_Cm.jpg",
+        "name" : "Dr. Ajit Pratap Singh",
+        "profile" : "https://www.bits-pilani.ac.in/pilani/aps/profile"
+      }
+    },
+    "Biology Department" : {
+      "Head of Department" : {
+        "contact" : "91-1596-255-666",
+        "img" : "https://universe.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Pilani/prabhatjha/Microcontent/2018-3-10--9-56-8-484_Prabhat_Nath_Jha.jpg",
+        "name" : "Dr. Prabhat Nath Jha",
+        "profile" : "https://universe.bits-pilani.ac.in/pilani/prabhatjha/profile"
+      },
+      "Handouts": {
+        "BIOT_F416" : {
+          "comp_code" : 1374,
+          "course_code" : "BIOT_F416",
+          "course_name" : "INTRO TO PHARMA BIOTECH"
+        },
+        "BIO_F110" : {
+          "comp_code" : 1001,
+          "course_code" : "BIO_F110",
+          "course_name" : "BIOLOGY LABORATORY"
+        },
+        "BIO_F111" : {
+          "comp_code" : 1002,
+          "course_code" : "BIO_F111",
+          "course_name" : "GENERAL BIOLOGY"
+        },
+        "BIO_F215" : {
+          "comp_code" : 1423,
+          "course_code" : "BIO_F215",
+          "course_name" : "BIOPHYSICS"
+        },
+        "BIO_F231" : {
+          "comp_code" : 1779,
+          "course_code" : "BIO_F231",
+          "course_name" : "BIOLOGY PROJECT LAB"
+        },
+        "BIO_F241" : {
+          "comp_code" : 1424,
+          "course_code" : "BIO_F241",
+          "course_name" : "ECOLOGY & ENVIRON SCI"
+        },
+        "BIO_F242" : {
+          "comp_code" : 1430,
+          "course_code" : "BIO_F242",
+          "course_name" : "INTRO TO BIOINFORMATICS"
+        },
+        "BIO_F244" : {
+          "comp_code" : 1426,
+          "course_code" : "BIO_F244",
+          "course_name" : "INSTRU METHODS OF ANAL"
+        },
+        "BIO_F266" : {
+          "comp_code" : 1651,
+          "course_code" : "BIO_F266",
+          "course_name" : "STUDY PROJECT"
+        },
+        "BIO_F314" : {
+          "comp_code" : 1454,
+          "course_code" : "BIO_F314",
+          "course_name" : "CONSERVATION BIOLOGY"
+        },
+        "BIO_F315" : {
+          "comp_code" : 2287,
+          "course_code" : "BIO_F315",
+          "course_name" : "APPLIED NUTRITION & NUTRACEUTI"
+        },
+        "BIO_F341" : {
+          "comp_code" : 1431,
+          "course_code" : "BIO_F341",
+          "course_name" : "DEVELOPMENTAL BIOLOGY"
+        },
+        "BIO_F342" : {
+          "comp_code" : 1432,
+          "course_code" : "BIO_F342",
+          "course_name" : "IMMUNOLOGY"
+        },
+        "BIO_F366" : {
+          "comp_code" : 1650,
+          "course_code" : "BIO_F366",
+          "course_name" : "LABORATORY PROJECT"
+        },
+        "BIO_F367" : {
+          "comp_code" : 1736,
+          "course_code" : "BIO_F367",
+          "course_name" : "LABORATORY PROJECT"
+        },
+        "BIO_F376" : {
+          "comp_code" : 1685,
+          "course_code" : "BIO_F376",
+          "course_name" : "DESIGN PROJECT"
+        },
+        "BIO_F377" : {
+          "comp_code" : 1752,
+          "course_code" : "BIO_F377",
+          "course_name" : "DESIGN PROJECT"
+        },
+        "BIO_F411" : {
+          "comp_code" : 1618,
+          "course_code" : "BIO_F411",
+          "course_name" : "LABORATORY"
+        },
+        "BIO_F418" : {
+          "comp_code" : 1434,
+          "course_code" : "BIO_F418",
+          "course_name" : "GENETIC ENGINEERING TECH"
+        },
+        "BIO_F491" : {
+          "comp_code" : 1710,
+          "course_code" : "BIO_F491",
+          "course_name" : "SPECIAL PROJECT"
+        },
+        "BIO_G513" : {
+          "comp_code" : 388,
+          "course_code" : "BIO_G513",
+          "course_name" : "MICROBIAL FERMENT TECHNO"
+        },
+        "BIO_G515" : {
+          "comp_code" : 111,
+          "course_code" : "BIO_G515",
+          "course_name" : "STEM CELL & REGENER BIO"
+        },
+        "BIO_G545" : {
+          "comp_code" : 2124,
+          "course_code" : "BIO_G545",
+          "course_name" : "MOL PARASIT & VECTOR BIO"
+        },
+        "BIO_G561" : {
+          "comp_code" : 2168,
+          "course_code" : "BIO_G561",
+          "course_name" : "ADV RECOMBINANT DNA TECH"
+        },
+        "BIO_G642" : {
+          "comp_code" : 203,
+          "course_code" : "BIO_G642",
+          "course_name" : "EXPERIMENTAL TECHNIQUES"
+        },
+        "BIO_G643" : {
+          "comp_code" : 956,
+          "course_code" : "BIO_G643",
+          "course_name" : "PLANT BIOTECHNOLOGY"
+        }
+      }
+    },
+    "Chemical Department" : {
+      "Head of Department" : {
+        "contact" : "91-1596-255-224",
+        "img" : "https://universe.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Microcontent/2012-1-11--10-41-25-797_hkm.jpg",
+        "name" : "Dr. H.K. Mohanta",
+        "profile" : "https://universe.bits-pilani.ac.in/pilani/harekrishna/profile"
+      },
+      "Handouts": {
+        "CHE_F241" : {
+          "comp_code" : 1180,
+          "course_code" : "CHE_F241",
+          "course_name" : "HEAT TRANSFER"
+        },
+        "CHE_F242" : {
+          "comp_code" : 1181,
+          "course_code" : "CHE_F242",
+          "course_name" : "NUM METHOD FOR CHEM ENGG"
+        },
+        "CHE_F243" : {
+          "comp_code" : 1182,
+          "course_code" : "CHE_F243",
+          "course_name" : "MATERIAL SCIENCE & ENGG"
+        },
+        "CHE_F244" : {
+          "comp_code" : 1183,
+          "course_code" : "CHE_F244",
+          "course_name" : "SEPARATION PROCESSES I"
+        },
+        "CHE_F342" : {
+          "comp_code" : 1189,
+          "course_code" : "CHE_F342",
+          "course_name" : "PROCESS DYN & CONTROL"
+        },
+        "CHE_F343" : {
+          "comp_code" : 1190,
+          "course_code" : "CHE_F343",
+          "course_name" : "PROCESS DES PRINCIPLE II"
+        },
+        "CHE_F412" : {
+          "comp_code" : 1207,
+          "course_code" : "CHE_F412",
+          "course_name" : "PROCESS EQUIPMENT DESIGN"
+        },
+        "CHE_F413" : {
+          "comp_code" : 1204,
+          "course_code" : "CHE_F413",
+          "course_name" : "PROCESS PLANT SAFETY"
+        },
+        "CHE_F414" : {
+          "comp_code" : 1201,
+          "course_code" : "CHE_F414",
+          "course_name" : "TRANSPORT PHENOMENA"
+        },
+        "CHE_F418" : {
+          "comp_code" : 1213,
+          "course_code" : "CHE_F418",
+          "course_name" : "MODEL & SIMU IN CHE ENGG"
+        },
+        "CHE_F419" : {
+          "comp_code" : 1203,
+          "course_code" : "CHE_F419",
+          "course_name" : "CHEMICAL PROCESS TECH"
+        },
+        "CHE_F421" : {
+          "comp_code" : 1205,
+          "course_code" : "CHE_F421",
+          "course_name" : "BIOCHEMICAL ENGINEERING"
+        },
+        "CHE_F471" : {
+          "comp_code" : 1208,
+          "course_code" : "CHE_F471",
+          "course_name" : "ADVANCE PROCESS CONTROL"
+        },
+        "CHE_G513" : {
+          "comp_code" : 279,
+          "course_code" : "CHE_G513",
+          "course_name" : "ENVIR MANAGEMENT SYSTEMS"
+        },
+        "CHE_G552" : {
+          "comp_code" : 2146,
+          "course_code" : "CHE_G552",
+          "course_name" : "ADV TRANSPORT PHENOMENA"
+        },
+        "CHE_G554" : {
+          "comp_code" : 2148,
+          "course_code" : "CHE_G554",
+          "course_name" : "COMPUT FLUID DYNAMICS"
+        },
+        "CHE_G641" : {
+          "comp_code" : 729,
+          "course_code" : "CHE_G641",
+          "course_name" : "REACTION ENGINEERING"
+        }
+      }
+    },
+    "Chemistry Department" : {
+      "Head of Department" : {
+        "contact" : "+91-1596-515279",
+        "img" : "https://www.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Pilani/saumi/Microcontent/2019-1-7--15-46-27-117_SaumiRay.jpg",
+        "name" : "Dr. Saumi Ray",
+        "profile" : "https://www.bits-pilani.ac.in/pilani/saumi/profile"
+      },
+      "Handouts": {
+        "CHEM_F111" : {
+          "comp_code" : 1007,
+          "course_code" : "CHEM_F111",
+          "course_name" : "GENERAL CHEMISTRY"
+        },
+        "CHEM_F241" : {
+          "comp_code" : 1554,
+          "course_code" : "CHEM_F241",
+          "course_name" : "INORGANIC CHEMISTRY II"
+        },
+        "CHEM_F242" : {
+          "comp_code" : 1555,
+          "course_code" : "CHEM_F242",
+          "course_name" : "CHEMICAL EXPER I"
+        },
+        "CHEM_F244" : {
+          "comp_code" : 1557,
+          "course_code" : "CHEM_F244",
+          "course_name" : "PHYSICAL CHEMISTRY III"
+        },
+        "CHEM_F320" : {
+          "comp_code" : 2283,
+          "course_code" : "CHEM_F320",
+          "course_name" : "INTRO COMPUT CHEMISTRY LAB"
+        },
+        "CHEM_F336" : {
+          "comp_code" : 1586,
+          "course_code" : "CHEM_F336",
+          "course_name" : "NANOCHEMISTRY"
+        },
+        "CHEM_F341" : {
+          "comp_code" : 1561,
+          "course_code" : "CHEM_F341",
+          "course_name" : "CHEMICAL EXPER II"
+        },
+        "CHEM_F342" : {
+          "comp_code" : 1562,
+          "course_code" : "CHEM_F342",
+          "course_name" : "ORGANIC CHEMISTRY IV"
+        },
+        "CHEM_F343" : {
+          "comp_code" : 1563,
+          "course_code" : "CHEM_F343",
+          "course_name" : "INORGANIC CHEMISTRY III"
+        },
+        "CHEM_F430" : {
+          "comp_code" : 2284,
+          "course_code" : "CHEM_F430",
+          "course_name" : "ATMOSPHERIC CHEMISTRY"
+        },
+        "CHEM_F431" : {
+          "comp_code" : 2285,
+          "course_code" : "CHEM_F431",
+          "course_name" : "SUST CHEMISTRY USING RENE"
+        },
+        "CHEM_G552" : {
+          "comp_code" : 7,
+          "course_code" : "CHEM_G552",
+          "course_name" : "ADV INORGANIC CHEMISTRY"
+        },
+        "CHEM_G554" : {
+          "comp_code" : 242,
+          "course_code" : "CHEM_G554",
+          "course_name" : "PHY METHODS IN CHEMISTRY"
+        }
+      }
+    },
+    "Civil Department" : {
+      "Head of Department" : {
+        "contact" : "+91-1596-515353",
+        "img" : "https://universe.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Pilani/anshu/Microcontent/2018-9-5--16-41-28-101_anshu.jpg",
+        "name" : "Dr. Anshuman",
+        "profile" : "https://universe.bits-pilani.ac.in/pilani/anshu/profile"
+      },
+      "Handouts": {
+        "CE_F241" : {
+          "comp_code" : 1191,
+          "course_code" : "CE_F241",
+          "course_name" : "ANALYSIS OF STRUCTURES"
+        },
+        "CE_F242" : {
+          "comp_code" : 1192,
+          "course_code" : "CE_F242",
+          "course_name" : "CONSTRUCTION PLAN & TECH"
+        },
+        "CE_F243" : {
+          "comp_code" : 1193,
+          "course_code" : "CE_F243",
+          "course_name" : "SOIL MECHANICS"
+        },
+        "CE_F244" : {
+          "comp_code" : 1194,
+          "course_code" : "CE_F244",
+          "course_name" : "HIGHWAY ENGINEERING"
+        },
+        "CE_F321" : {
+          "comp_code" : 2282,
+          "course_code" : "CE_F321",
+          "course_name" : "ENGINEERING HYDROLOGY"
+        },
+        "CE_F324" : {
+          "comp_code" : 1217,
+          "course_code" : "CE_F324",
+          "course_name" : "NUMERICAL ANALYSIS"
+        },
+        "CE_F342" : {
+          "comp_code" : 1199,
+          "course_code" : "CE_F342",
+          "course_name" : "WATER & WASTEWATER TREAT"
+        },
+        "CE_F343" : {
+          "comp_code" : 1200,
+          "course_code" : "CE_F343",
+          "course_name" : "DES OF STEEL STRUCTURES"
+        },
+        "CE_F416" : {
+          "comp_code" : 1230,
+          "course_code" : "CE_F416",
+          "course_name" : "COMP APPL IN CIVIL ENGG"
+        },
+        "CE_F420" : {
+          "comp_code" : 1233,
+          "course_code" : "CE_F420",
+          "course_name" : "INTRO TO BRIDGE ENGG"
+        },
+        "CE_F432" : {
+          "comp_code" : 1219,
+          "course_code" : "CE_F432",
+          "course_name" : "STRUCTURAL DYNAMICS"
+        },
+        "CE_F435" : {
+          "comp_code" : 1234,
+          "course_code" : "CE_F435",
+          "course_name" : "INTRODUCTION TO FEM"
+        },
+        "CE_G516" : {
+          "comp_code" : 804,
+          "course_code" : "CE_G516",
+          "course_name" : "MULTICRITER ANAL IN ENGG"
+        },
+        "CE_G518" : {
+          "comp_code" : 256,
+          "course_code" : "CE_G518",
+          "course_name" : "PAVEMENT ANALYSIS & DES"
+        },
+        "CE_G520" : {
+          "comp_code" : 347,
+          "course_code" : "CE_G520",
+          "course_name" : "INFRASTRUC PLAN & MANAG"
+        },
+        "CE_G524" : {
+          "comp_code" : 309,
+          "course_code" : "CE_G524",
+          "course_name" : "URBAN MASS TRAN PLAN OP"
+        },
+        "CE_G553" : {
+          "comp_code" : 532,
+          "course_code" : "CE_G553",
+          "course_name" : "THEORY OF PLATES & SHELL"
+        },
+        "CE_G562" : {
+          "comp_code" : 2199,
+          "course_code" : "CE_G562",
+          "course_name" : "ADVD CONCRETE TECHNOLOGY"
+        },
+        "CE_G612" : {
+          "comp_code" : 345,
+          "course_code" : "CE_G612",
+          "course_name" : "ADVANCED STEEL STRUCTURE"
+        },
+        "CE_G615" : {
+          "comp_code" : 108,
+          "course_code" : "CE_G615",
+          "course_name" : "EARTHQUAKE ENGINEERING"
+        },
+        "CE_G618" : {
+          "comp_code" : 621,
+          "course_code" : "CE_G618",
+          "course_name" : "DESIGN OF MULTI-STOR STR"
+        }
+      }
+    },
+    "Computer Science Department" : {
+      "Head of Department" : {
+        "contact" : "+91 1596 515327 ",
+        "img" : "https://universe.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Pilani/poonam/Microcontent/2015-7-3--13-4-57-534_DSC05498.JPG",
+        "name" : "Dr. Poonam Goyal",
+        "profile" : "https://universe.bits-pilani.ac.in/pilani/poonam/profile"
+      },
+      "Handouts": {
+        "CS_F111" : {
+          "comp_code" : 1008,
+          "course_code" : "CS_F111",
+          "course_name" : "COMPUTER PROGRAMMING"
+        },
+        "CS_F211" : {
+          "comp_code" : 1094,
+          "course_code" : "CS_F211",
+          "course_name" : "DATA STRUCTURES & ALGO"
+        },
+        "CS_F212" : {
+          "comp_code" : 1095,
+          "course_code" : "CS_F212",
+          "course_name" : "DATABASE SYSTEMS"
+        },
+        "CS_F213" : {
+          "comp_code" : 1092,
+          "course_code" : "CS_F213",
+          "course_name" : "OBJECT ORIENTED PROG"
+        },
+        "CS_F241" : {
+          "comp_code" : 1313,
+          "course_code" : "CS_F241",
+          "course_name" : "MICROPROC & INTERFACING"
+        },
+        "CS_F266" : {
+          "comp_code" : 1655,
+          "course_code" : "CS_F266",
+          "course_name" : "STUDY PROJECT"
+        },
+        "CS_F303" : {
+          "comp_code" : 1320,
+          "course_code" : "CS_F303",
+          "course_name" : "COMPUTER NETWORKS"
+        },
+        "CS_F320" : {
+          "comp_code" : 2266,
+          "course_code" : "CS_F320",
+          "course_name" : "FOUNDATIONS OF DATA SCIENCE"
+        },
+        "CS_F342" : {
+          "comp_code" : 1317,
+          "course_code" : "CS_F342",
+          "course_name" : "COMPUTER ARCHITECTURE"
+        },
+        "CS_F364" : {
+          "comp_code" : 1319,
+          "course_code" : "CS_F364",
+          "course_name" : "DESIGN & ANAL OF ALGO"
+        },
+        "CS_F372" : {
+          "comp_code" : 1315,
+          "course_code" : "CS_F372",
+          "course_name" : "OPERATING SYSTEMS"
+        },
+        "CS_F401" : {
+          "comp_code" : 1327,
+          "course_code" : "CS_F401",
+          "course_name" : "MULTIMEDIA COMPUTING"
+        },
+        "CS_F415" : {
+          "comp_code" : 1322,
+          "course_code" : "CS_F415",
+          "course_name" : "DATA MINING"
+        },
+        "CS_F422" : {
+          "comp_code" : 1323,
+          "course_code" : "CS_F422",
+          "course_name" : "PARALLEL COMPUTING"
+        },
+        "CS_F441" : {
+          "comp_code" : 1325,
+          "course_code" : "CS_F441",
+          "course_name" : "SEL TOPICS FROM COMP SC"
+        },
+        "CS_F446" : {
+          "comp_code" : 1326,
+          "course_code" : "CS_F446",
+          "course_name" : "DATA STORAGE TECH & NETW"
+        },
+        "CS_G513" : {
+          "comp_code" : 507,
+          "course_code" : "CS_G513",
+          "course_name" : "NETWORK SECURITY"
+        },
+        "CS_G520" : {
+          "comp_code" : 2106,
+          "course_code" : "CS_G520",
+          "course_name" : "ADVANCED DATA MINING"
+        },
+        "CS_G523" : {
+          "comp_code" : 2052,
+          "course_code" : "CS_G523",
+          "course_name" : "SOFTWARE FOR EMBEDDE SYS"
+        },
+        "CS_G524" : {
+          "comp_code" : 2006,
+          "course_code" : "CS_G524",
+          "course_name" : "ADV COMPUTER ARCHITECTUR"
+        },
+        "IS_F311" : {
+          "comp_code" : 1532,
+          "course_code" : "IS_F311",
+          "course_name" : "COMPUTER GRAPHICS"
+        },
+        "IS_F462" : {
+          "comp_code" : 1331,
+          "course_code" : "IS_F462",
+          "course_name" : "NETWORK PROGRAMMING"
+        },
+        "SS_G513" : {
+          "comp_code" : 327,
+          "course_code" : "SS_G513",
+          "course_name" : "NETWORK SECURITY"
+        },
+        "SS_G515" : {
+          "comp_code" : 958,
+          "course_code" : "SS_G515",
+          "course_name" : "DATA WAREHOUSING"
+        },
+        "SS_G520" : {
+          "comp_code" : 2107,
+          "course_code" : "SS_G520",
+          "course_name" : "ADVANCED DATA MINING"
+        },
+        "SS_G653" : {
+          "comp_code" : 333,
+          "course_code" : "SS_G653",
+          "course_name" : "SOFTWARE ARCHITECHTURES"
+        }
+      }
+    },
+    "EEE Department" : {
+      "Head of Department" : {
+        "contact" : "+91-1596-515280",
+        "img" : "https://universe.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Pilani/vkc/Microcontent/2018-10-16--16-22-59-971_vkc_photo.jpg",
+        "name" : "Dr. Vinod Kumar Chaubey",
+        "profile" : "http://universe.bits-pilani.ac.in/Pilani/vkc/profile"
+      },
+      "Handouts" : {
+        "EEE_F111" : {
+          "comp_code" : 1009,
+          "course_code" : "EEE_F111",
+          "course_name" : "ELECTRICAL SCIENCES"
+        },
+        "EEE_F241" : {
+          "comp_code" : 1238,
+          "course_code" : "EEE_F241",
+          "course_name" : "MICROPROC & INTERFACING"
+        },
+        "EEE_F242" : {
+          "comp_code" : 1239,
+          "course_code" : "EEE_F242",
+          "course_name" : "CONTROL SYSTEMS"
+        },
+        "EEE_F243" : {
+          "comp_code" : 1240,
+          "course_code" : "EEE_F243",
+          "course_name" : "SIGNALS & SYSTEMS"
+        },
+        "EEE_F244" : {
+          "comp_code" : 1241,
+          "course_code" : "EEE_F244",
+          "course_name" : "MICROELECTRONIC CIRCUITS"
+        },
+        "EEE_F246" : {
+          "comp_code" : 1900,
+          "course_code" : "EEE_F246",
+          "course_name" : "E & E CIRCUIT LABORATORY"
+        },
+        "EEE_F266" : {
+          "comp_code" : 1657,
+          "course_code" : "EEE_F266",
+          "course_name" : "STUDY PROJECT"
+        },
+        "EEE_F312" : {
+          "comp_code" : 1244,
+          "course_code" : "EEE_F312",
+          "course_name" : "POWER SYSTEMS"
+        },
+        "EEE_F341" : {
+          "comp_code" : 1245,
+          "course_code" : "EEE_F341",
+          "course_name" : "ANALOG ELECTRONICS"
+        },
+        "EEE_F342" : {
+          "comp_code" : 1246,
+          "course_code" : "EEE_F342",
+          "course_name" : "POWER ELECTRONICS"
+        },
+        "EEE_F346" : {
+          "comp_code" : 1255,
+          "course_code" : "EEE_F346",
+          "course_name" : "DATA COMMUNIC & NETWORKS"
+        },
+        "EEE_F376" : {
+          "comp_code" : 1691,
+          "course_code" : "EEE_F376",
+          "course_name" : "DESIGN PROJECT"
+        },
+        "EEE_F411" : {
+          "comp_code" : 2288,
+          "course_code" : "EEE_F411",
+          "course_name" : "INTERNET OF THINGS"
+        },
+        "EEE_F414" : {
+          "comp_code" : 1252,
+          "course_code" : "EEE_F414",
+          "course_name" : "TELECOM SWIT SYS & NETWK"
+        },
+        "EEE_F431" : {
+          "comp_code" : 1250,
+          "course_code" : "EEE_F431",
+          "course_name" : "MOBILE TELECOM NETWORKS"
+        },
+        "EEE_F432" : {
+          "comp_code" : 1247,
+          "course_code" : "EEE_F432",
+          "course_name" : "MEDICAL INSTRUMENTATION"
+        },
+        "EEE_F436" : {
+          "comp_code" : 2335,
+          "course_code" : "EEE_F436",
+          "course_name" : "ELECTROMAGNETIC COMPATIBILITY"
+        },
+        "EEE_F472" : {
+          "comp_code" : 1249,
+          "course_code" : "EEE_F472",
+          "course_name" : "SATELLITE COMMUNICATION"
+        },
+        "EEE_F477" : {
+          "comp_code" : 1895,
+          "course_code" : "EEE_F477",
+          "course_name" : "MODELING OF FIELD-EFFECT NANO"
+        },
+        "EEE_G510" : {
+          "comp_code" : 462,
+          "course_code" : "EEE_G510",
+          "course_name" : "RF MICROELECTRONICS"
+        },
+        "EEE_G547" : {
+          "comp_code" : 2175,
+          "course_code" : "EEE_G547",
+          "course_name" : "DEVICE DRIVERS"
+        },
+        "EEE_G592" : {
+          "comp_code" : 96,
+          "course_code" : "EEE_G592",
+          "course_name" : "MOBILE PERSONAL COMMUNIC"
+        },
+        "EEE_G622" : {
+          "comp_code" : 80,
+          "course_code" : "EEE_G622",
+          "course_name" : "ADVANCED DIGITAL COMMUNI"
+        },
+        "MEL_G632" : {
+          "comp_code" : 224,
+          "course_code" : "MEL_G632",
+          "course_name" : "ANALOG IC DESIGN"
+        },
+        "MEL_G641" : {
+          "comp_code" : 484,
+          "course_code" : "MEL_G641",
+          "course_name" : "CAD FOR IC DESIGN"
+        },
+        "MEL_G642" : {
+          "comp_code" : 817,
+          "course_code" : "MEL_G642",
+          "course_name" : "VLSI ARCHITECTURE"
+        }
+      }
+    },
+    "Economics Department" : {
+      "Head of Department" : {
+        "contact" : "+91-01596-515311",
+        "img" : "https://www.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Pilani/akgiri/Microcontent/2016-8-17--15-49-41-555_00000000000000.jpg",
+        "name" : "Dr. Arun Kumar Giri",
+        "profile" : "https://www.bits-pilani.ac.in/Pilani/akgiri/profile"
+      },
+      "Handouts": {
+        "ECON_F241" : {
+          "comp_code" : 1442,
+          "course_code" : "ECON_F241",
+          "course_name" : "ECONOMETRIC METHODS"
+        },
+        "ECON_F242" : {
+          "comp_code" : 1443,
+          "course_code" : "ECON_F242",
+          "course_name" : "MICROECONOMICS"
+        },
+        "ECON_F243" : {
+          "comp_code" : 1444,
+          "course_code" : "ECON_F243",
+          "course_name" : "MACROECONOMICS"
+        },
+        "ECON_F244" : {
+          "comp_code" : 1445,
+          "course_code" : "ECON_F244",
+          "course_name" : "ECONOMIC OF GROWTH & DEV"
+        },
+        "ECON_F342" : {
+          "comp_code" : 1450,
+          "course_code" : "ECON_F342",
+          "course_name" : "APPLIED ECONOMETRICS"
+        },
+        "ECON_F343" : {
+          "comp_code" : 1451,
+          "course_code" : "ECON_F343",
+          "course_name" : "ECONOMIC ANAL OF PUB POL"
+        },
+        "ECON_F354" : {
+          "comp_code" : 1565,
+          "course_code" : "ECON_F354",
+          "course_name" : "DERIVATIVES & RISK MGMT"
+        },
+        "ECON_F412" : {
+          "comp_code" : 1566,
+          "course_code" : "ECON_F412",
+          "course_name" : "SECUR ANAL & PORTFOL MGT"
+        },
+        "ECON_F413" : {
+          "comp_code" : 1551,
+          "course_code" : "ECON_F413",
+          "course_name" : "FINANCIAL ENGINEERING"
+        },
+        "ECON_F414" : {
+          "comp_code" : 1552,
+          "course_code" : "ECON_F414",
+          "course_name" : "CREAT & LEAD ENTREP ORGN"
+        },
+        "ECON_F417" : {
+          "comp_code" : 1925,
+          "course_code" : "ECON_F417",
+          "course_name" : "RISK MANAGEMENT AND INSURA"
+        },
+        "ECON_F435" : {
+          "comp_code" : 1875,
+          "course_code" : "ECON_F435",
+          "course_name" : "MARKETING RESEARCH"
+        },
+        "FIN_F311" : {
+          "comp_code" : 1539,
+          "course_code" : "FIN_F311",
+          "course_name" : "DERIVATIVES & RISK MGMT"
+        },
+        "FIN_F313" : {
+          "comp_code" : 1545,
+          "course_code" : "FIN_F313",
+          "course_name" : "SECUR ANAL & PORTFOL MGT"
+        }
+      }
+    },
+    "Humanities Department" : {
+      "Head of Department" : {
+        "contact" : "01596-515268",
+        "img" : "https://www.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Microcontent/2012-1-27--16-53-16-624_Picture_003.jpg",
+        "name" : "Dr. Sanjiv Kumar Chaudhary",
+        "profile" : "http://www.bits-pilani.ac.in/pilani/chskumar/Profile"
+      },
+      "Handouts": {
+        "GS_F223" : {
+          "comp_code" : 1135,
+          "course_code" : "GS_F223",
+          "course_name" : "INTRO TO MASS COMM"
+        },
+        "GS_F224" : {
+          "comp_code" : 1136,
+          "course_code" : "GS_F224",
+          "course_name" : "PRINT & AUDIO VISU ADVER"
+        },
+        "GS_F231" : {
+          "comp_code" : 1169,
+          "course_code" : "GS_F231",
+          "course_name" : "DYN OF SOCIAL CHANGE"
+        },
+        "GS_F232" : {
+          "comp_code" : 1170,
+          "course_code" : "GS_F232",
+          "course_name" : "INTRODUCTORY PSYCHOLOGY"
+        },
+        "GS_F233" : {
+          "comp_code" : 1171,
+          "course_code" : "GS_F233",
+          "course_name" : "PUBLIC POLICY"
+        },
+        "GS_F234" : {
+          "comp_code" : 1172,
+          "course_code" : "GS_F234",
+          "course_name" : "DEVELOPMENT ECONOMICS"
+        },
+        "GS_F241" : {
+          "comp_code" : 1158,
+          "course_code" : "GS_F241",
+          "course_name" : "CREATIVE WRITING"
+        },
+        "GS_F242" : {
+          "comp_code" : 1159,
+          "course_code" : "GS_F242",
+          "course_name" : "CULTURAL STUDIES"
+        },
+        "GS_F243" : {
+          "comp_code" : 1160,
+          "course_code" : "GS_F243",
+          "course_name" : "CURRENT AFFAIRS"
+        },
+        "GS_F244" : {
+          "comp_code" : 1161,
+          "course_code" : "GS_F244",
+          "course_name" : "REPORT & WRITE FOR MEDIA"
+        },
+        "GS_F245" : {
+          "comp_code" : 1165,
+          "course_code" : "GS_F245",
+          "course_name" : "EFFECTIVE PUBLIC SPEAK"
+        },
+        "GS_F266" : {
+          "comp_code" : 1659,
+          "course_code" : "GS_F266",
+          "course_name" : "STUDY PROJECT"
+        },
+        "GS_F312" : {
+          "comp_code" : 1174,
+          "course_code" : "GS_F312",
+          "course_name" : "APPLIED PHILOSOPHY"
+        },
+        "GS_F322" : {
+          "comp_code" : 1137,
+          "course_code" : "GS_F322",
+          "course_name" : "CRITI ANAL OF LIT & CINE"
+        },
+        "GS_F331" : {
+          "comp_code" : 1175,
+          "course_code" : "GS_F331",
+          "course_name" : "TECH IN SOCIAL RESEARCH"
+        },
+        "GS_F332" : {
+          "comp_code" : 1176,
+          "course_code" : "GS_F332",
+          "course_name" : "CONTEMPORARY INDIA"
+        },
+        "GS_F333" : {
+          "comp_code" : 1177,
+          "course_code" : "GS_F333",
+          "course_name" : "PUBLIC ADMINISTRATION"
+        },
+        "GS_F334" : {
+          "comp_code" : 1178,
+          "course_code" : "GS_F334",
+          "course_name" : "GLOBAL BUSINESS TEC & KS"
+        },
+        "GS_F342" : {
+          "comp_code" : 1164,
+          "course_code" : "GS_F342",
+          "course_name" : "COMPUTER MEDIATED COMM"
+        }
+      }
+    },
+    "Humanities Department 2" : {
+      "Handouts" :  {
+        "GS_F343" : {
+          "comp_code" : 1168,
+          "course_code" : "GS_F343",
+          "course_name" : "SHORT FILM & VIDEO PROD"
+        },
+        "GS_F366" : {
+          "comp_code" : 1733,
+          "course_code" : "GS_F366",
+          "course_name" : "LABORATORY PROJECT"
+        },
+        "GS_F367" : {
+          "comp_code" : 1744,
+          "course_code" : "GS_F367",
+          "course_name" : "LABORATORY PROJECT"
+        },
+        "GS_F376" : {
+          "comp_code" : 1693,
+          "course_code" : "GS_F376",
+          "course_name" : "DESIGN PROJECT"
+        },
+        "GS_F377" : {
+          "comp_code" : 1760,
+          "course_code" : "GS_F377",
+          "course_name" : "DESIGN PROJECT"
+        },
+        "GS_F491" : {
+          "comp_code" : 1718,
+          "course_code" : "GS_F491",
+          "course_name" : "SPECIAL PROJECT"
+        },
+        "HSS_F221" : {
+          "comp_code" : 1602,
+          "course_code" : "HSS_F221",
+          "course_name" : "READINGS FROM DRAMA"
+        },
+        "HSS_F222" : {
+          "comp_code" : 1603,
+          "course_code" : "HSS_F222",
+          "course_name" : "LINGUISTICS"
+        },
+        "HSS_F223" : {
+          "comp_code" : 1596,
+          "course_code" : "HSS_F223",
+          "course_name" : "APPR OF INDIAN MUSIC"
+        },
+        "HSS_F235" : {
+          "comp_code" : 1627,
+          "course_code" : "HSS_F235",
+          "course_name" : "INTRODUCTORY PHILOSOPHY"
+        },
+        "HSS_F236" : {
+          "comp_code" : 1628,
+          "course_code" : "HSS_F236",
+          "course_name" : "SYMBOLIC LOGIC"
+        },
+        "HSS_F266" : {
+          "comp_code" : 1776,
+          "course_code" : "HSS_F266",
+          "course_name" : "STUDY PROJECT"
+        },
+        "HSS_F325" : {
+          "comp_code" : 1155,
+          "course_code" : "HSS_F325",
+          "course_name" : "CINEMATIC ADAPTATION"
+        },
+        "HSS_F329" : {
+          "comp_code" : 1597,
+          "course_code" : "HSS_F329",
+          "course_name" : "MUSICOLOGY-AN INTRODUCTN"
+        },
+        "HSS_F343" : {
+          "comp_code" : 1623,
+          "course_code" : "HSS_F343",
+          "course_name" : "PROFESSIONAL ETHICS"
+        },
+        "HSS_F345" : {
+          "comp_code" : 1625,
+          "course_code" : "HSS_F345",
+          "course_name" : "GANDHIAN THOUGHTS"
+        },
+        "MUSIC_N113T" : {
+          "comp_code" : 667,
+          "course_code" : "MUSIC_N113T",
+          "course_name" : "INDIA CLASS MUSIC(INS) I"
+        },
+        "MUSIC_N114T" : {
+          "comp_code" : 673,
+          "course_code" : "MUSIC_N114T",
+          "course_name" : "INDIA CLASS MUSIC(INS)II"
+        }
+      }
+    },
+    "Information Processing Center" : {
+      "Dean" : {
+        "contact" : "+91-1596-255467",
+        "img" : "https://www.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Microcontent/2012-1-12--11-29-40-692_yashvardhan_150x165.jpg",
+        "name" : "Dr. Yashvardhan Sharma",
+        "profile" : "http://www.bits-pilani.ac.in/pilani/yash/profile"
+      }
+    },
+    "Instrumentation Department" : {
+      "Head of Department" : {
+        "contact" : "+91-1596-515280",
+        "img" : "https://universe.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Pilani/vkc/Microcontent/2018-10-16--16-22-59-971_vkc_photo.jpg",
+        "name" : "Dr. Vinod Kumar Chaubey",
+        "profile" : "http://universe.bits-pilani.ac.in/Pilani/vkc/profile"
+      },
+      "Handouts"  : {
+        "INSTR_F241" : {
+          "comp_code" : 1341,
+          "course_code" : "INSTR_F241",
+          "course_name" : "MICROPROC & INTERFACING"
+        },
+        "INSTR_F242" : {
+          "comp_code" : 1342,
+          "course_code" : "INSTR_F242",
+          "course_name" : "CONTROL SYSTEMS"
+        },
+        "INSTR_F243" : {
+          "comp_code" : 1343,
+          "course_code" : "INSTR_F243",
+          "course_name" : "SIGNALS & SYSTEMS"
+        },
+        "INSTR_F244" : {
+          "comp_code" : 1344,
+          "course_code" : "INSTR_F244",
+          "course_name" : "MICROELECTRONIC CIRCUITS"
+        },
+        "INSTR_F266" : {
+          "comp_code" : 1660,
+          "course_code" : "INSTR_F266",
+          "course_name" : "STUDY PROJECT"
+        },
+        "INSTR_F341" : {
+          "comp_code" : 1348,
+          "course_code" : "INSTR_F341",
+          "course_name" : "ANALOG ELECTRONICS"
+        },
+        "INSTR_F342" : {
+          "comp_code" : 1349,
+          "course_code" : "INSTR_F342",
+          "course_name" : "POWER ELECTRONICS"
+        },
+        "INSTR_F343" : {
+          "comp_code" : 1350,
+          "course_code" : "INSTR_F343",
+          "course_name" : "INDUS INSTRUMENT & CONT"
+        },
+        "INSTR_F414" : {
+          "comp_code" : 1352,
+          "course_code" : "INSTR_F414",
+          "course_name" : "TELECOM SWIT SYS & NETWK"
+        },
+        "INSTR_F432" : {
+          "comp_code" : 1351,
+          "course_code" : "INSTR_F432",
+          "course_name" : "MEDICAL INSTRUMENTATION"
+        }
+      }
+    },
+    "Management Department" : {
+      "Head of Department" : {
+        "contact" : "+91 1596-515503",
+        "img" : "https://universe.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Pilani/jyoti/Microcontent/2017-5-23--16-23-23-698_jyoti2.jpg",
+        "name" : "Dr. Jyoti Tikoria",
+        "profile" : "https://universe.bits-pilani.ac.in/pilani/jyoti/profile"
+      },
+      "Handouts" : {
+        "MBA_G509" : {
+          "comp_code" : 2212,
+          "course_code" : "MBA_G509",
+          "course_name" : "INVEST BANK & FIN SERV"
+        },
+        "MBA_G510" : {
+          "comp_code" : 2214,
+          "course_code" : "MBA_G510",
+          "course_name" : "HUMAN RESOURCE & MGMT"
+        },
+        "MBA_G516" : {
+          "comp_code" : 2218,
+          "course_code" : "MBA_G516",
+          "course_name" : "CORPORATE FIN AND TAX"
+        },
+        "MBA_G518" : {
+          "comp_code" : 2220,
+          "course_code" : "MBA_G518",
+          "course_name" : "MARKETING"
+        },
+        "MBA_G519" : {
+          "comp_code" : 2221,
+          "course_code" : "MBA_G519",
+          "course_name" : "PRODUCT & OPERATION MGMT"
+        },
+        "MBA_G521" : {
+          "comp_code" : 2222,
+          "course_code" : "MBA_G521",
+          "course_name" : "SUPPLY CHAIN MANAGEMENT"
+        },
+        "MBA_G523" : {
+          "comp_code" : 939,
+          "course_code" : "MBA_G523",
+          "course_name" : "PROJECT MANAGEMENT"
+        },
+        "MBA_G532" : {
+          "comp_code" : 2232,
+          "course_code" : "MBA_G532",
+          "course_name" : "RISK MANAGEMENT & INSURA"
+        },
+        "MBA_G537" : {
+          "comp_code" : 2235,
+          "course_code" : "MBA_G537",
+          "course_name" : "SECURE ANAL AND PORTFOL"
+        },
+        "MBA_G571" : {
+          "comp_code" : 2241,
+          "course_code" : "MBA_G571",
+          "course_name" : "MANAGEMENT INFORM SYSTEM"
+        },
+        "MBA_G575" : {
+          "comp_code" : 2243,
+          "course_code" : "MBA_G575",
+          "course_name" : "FINANCIAL ENGINEERING"
+        },
+        "MBA_G578" : {
+          "comp_code" : 2330,
+          "course_code" : "MBA_G578",
+          "course_name" : "GAME THEORY AND BUSIN STRATEGY"
+        },
+        "MBA_G582" : {
+          "comp_code" : 2245,
+          "course_code" : "MBA_G582",
+          "course_name" : "CREAT & LEAD ENTRE ORIGN"
+        },
+        "MBA_G583" : {
+          "comp_code" : 2246,
+          "course_code" : "MBA_G583",
+          "course_name" : "MARKETING RESEARCH"
+        },
+        "MGTS_F211" : {
+          "comp_code" : 1024,
+          "course_code" : "MGTS_F211",
+          "course_name" : "PRINCIPLES OF MANAGEMENT"
+        }
+      }
+    },
+    "Manufacturing Department" : {
+      "Head of Department" : {
+        "contact" : "+91-1596-51-5223",
+        "img" : "https://www.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Pilani/dasgupta/Microcontent/2017-6-7--11-54-20-82_dasgupta.jpg",
+        "name" : "Dr. MS Dasgupta",
+        "profile" : "https://www.bits-pilani.ac.in/pilani/dasgupta/profile"
+      },
+      "Handouts": {
+        "MF_F241" : {
+          "comp_code" : 1398,
+          "course_code" : "MF_F241",
+          "course_name" : "MACHINE DESIGN & DRAWING"
+        },
+        "MF_F242" : {
+          "comp_code" : 1399,
+          "course_code" : "MF_F242",
+          "course_name" : "MANUFACTURING MANAGEMENT"
+        },
+        "MF_F244" : {
+          "comp_code" : 1401,
+          "course_code" : "MF_F244",
+          "course_name" : "KIN & DYN OF MACHINES"
+        },
+        "MF_F266" : {
+          "comp_code" : 1664,
+          "course_code" : "MF_F266",
+          "course_name" : "STUDY PROJECT"
+        },
+        "MF_F341" : {
+          "comp_code" : 1405,
+          "course_code" : "MF_F341",
+          "course_name" : "DESIGN OF MACHINE TOOLS"
+        },
+        "MF_F342" : {
+          "comp_code" : 1407,
+          "course_code" : "MF_F342",
+          "course_name" : "COMPUTER AIDED DESIGN"
+        },
+        "MF_F343" : {
+          "comp_code" : 1406,
+          "course_code" : "MF_F343",
+          "course_name" : "CASTING & WELDING"
+        },
+        "MF_F344" : {
+          "comp_code" : 1408,
+          "course_code" : "MF_F344",
+          "course_name" : "ENGINEERING OPTIMIZATION"
+        },
+        "MF_F366" : {
+          "comp_code" : 1681,
+          "course_code" : "MF_F366",
+          "course_name" : "LABORATORY PROJECT"
+        },
+        "MF_F367" : {
+          "comp_code" : 1749,
+          "course_code" : "MF_F367",
+          "course_name" : "LABORATORY PROJECT"
+        },
+        "MF_F376" : {
+          "comp_code" : 1698,
+          "course_code" : "MF_F376",
+          "course_name" : "DESIGN PROJECT"
+        },
+        "MF_F377" : {
+          "comp_code" : 1765,
+          "course_code" : "MF_F377",
+          "course_name" : "DESIGN PROJECT"
+        },
+        "MF_F418" : {
+          "comp_code" : 1417,
+          "course_code" : "MF_F418",
+          "course_name" : "LEAN MANUFACTURING"
+        },
+        "MF_F421" : {
+          "comp_code" : 1418,
+          "course_code" : "MF_F421",
+          "course_name" : "SUPPLY CHAIN MANAGEMENT"
+        },
+        "MF_F473" : {
+          "comp_code" : 1420,
+          "course_code" : "MF_F473",
+          "course_name" : "PRODUCT DESIGN & DEVELOP"
+        },
+        "MF_F491" : {
+          "comp_code" : 1422,
+          "course_code" : "MF_F491",
+          "course_name" : "SPECIAL PROJECTS"
+        }
+      }
+    },
+    "Mathematics Department" : {
+      "Head of Department" : {
+        "contact" : "01596-515261",
+        "img" : "https://universe.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Pilani/bksharma/Microcontent/2018-9-5--11-39-57-498_bksharma.jpg",
+        "name" : "Dr. Bhupendra Kumar Sharma",
+        "profile" : "https://www.bits-pilani.ac.in/pilani/bksharma/profile"
+      },
+      "Handouts": {
+        "MATH_F112" : {
+          "comp_code" : 1011,
+          "course_code" : "MATH_F112",
+          "course_name" : "MATHEMATICS II"
+        },
+        "MATH_F113" : {
+          "comp_code" : 1012,
+          "course_code" : "MATH_F113",
+          "course_name" : "PROBABILITY & STATISTICS"
+        },
+        "MATH_F231" : {
+          "comp_code" : 1340,
+          "course_code" : "MATH_F231",
+          "course_name" : "NUMBER THEORY"
+        },
+        "MATH_F241" : {
+          "comp_code" : 1465,
+          "course_code" : "MATH_F241",
+          "course_name" : "MATHEMATICAL METHODS"
+        },
+        "MATH_F242" : {
+          "comp_code" : 1466,
+          "course_code" : "MATH_F242",
+          "course_name" : "OPERATIONS RESEARCH"
+        },
+        "MATH_F243" : {
+          "comp_code" : 1467,
+          "course_code" : "MATH_F243",
+          "course_name" : "GRAPHS AND NETWORKS"
+        },
+        "MATH_F244" : {
+          "comp_code" : 1468,
+          "course_code" : "MATH_F244",
+          "course_name" : "MEASURE & INTEGRATION"
+        },
+        "MATH_F314" : {
+          "comp_code" : 1475,
+          "course_code" : "MATH_F314",
+          "course_name" : "ALGEBRA II"
+        },
+        "MATH_F341" : {
+          "comp_code" : 1472,
+          "course_code" : "MATH_F341",
+          "course_name" : "INTRO TO FUNCTIONAL ANAL"
+        },
+        "MATH_F342" : {
+          "comp_code" : 1473,
+          "course_code" : "MATH_F342",
+          "course_name" : "DIFFERENTIAL GEOMETRY"
+        },
+        "MATH_F343" : {
+          "comp_code" : 1474,
+          "course_code" : "MATH_F343",
+          "course_name" : "PARTIAL DIFF EQUATIONS"
+        },
+        "MATH_F353" : {
+          "comp_code" : 1479,
+          "course_code" : "MATH_F353",
+          "course_name" : "STATISTICAL INFER & APP"
+        },
+        "MATH_F420" : {
+          "comp_code" : 1882,
+          "course_code" : "MATH_F420",
+          "course_name" : "MATHEMATICAL MODELLING"
+        },
+        "MATH_F422" : {
+          "comp_code" : 1921,
+          "course_code" : "MATH_F422",
+          "course_name" : "NUM MTHD FOR PARTIAL DIFF EQ"
+        },
+        "MATH_F424" : {
+          "comp_code" : 2191,
+          "course_code" : "MATH_F424",
+          "course_name" : "APPLIED STOCHASTIC PROCE"
+        }
+      }
+    },
+    "Mechanical Department" : {
+      "Head of Department" : {
+        "contact" : "+91-1596-51-5223",
+        "img" : "https://www.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Pilani/dasgupta/Microcontent/2017-6-7--11-54-20-82_dasgupta.jpg",
+        "name" : "Dr. MS Dasgupta",
+        "profile" : "https://www.bits-pilani.ac.in/pilani/dasgupta/profile"
+      },
+      "Handouts" :  {
+        "DE_G514" : {
+          "comp_code" : 436,
+          "course_code" : "DE_G514",
+          "course_name" : "FRACTURE MECHANICS"
+        },
+        "ME_F110" : {
+          "comp_code" : 1013,
+          "course_code" : "ME_F110",
+          "course_name" : "WORKSHOP PRACTICE"
+        },
+        "ME_F241" : {
+          "comp_code" : 1263,
+          "course_code" : "ME_F241",
+          "course_name" : "MACHINE DESIGN & DRAWING"
+        },
+        "ME_F242" : {
+          "comp_code" : 1264,
+          "course_code" : "ME_F242",
+          "course_name" : "IC ENGINES"
+        },
+        "ME_F243" : {
+          "comp_code" : 1265,
+          "course_code" : "ME_F243",
+          "course_name" : "PRODUCTION TECHNIQUES I"
+        },
+        "ME_F244" : {
+          "comp_code" : 1266,
+          "course_code" : "ME_F244",
+          "course_name" : "KIN & DYN OF MACHINES"
+        },
+        "ME_F266" : {
+          "comp_code" : 1663,
+          "course_code" : "ME_F266",
+          "course_name" : "STUDY PROJECT"
+        },
+        "ME_F340" : {
+          "comp_code" : 2286,
+          "course_code" : "ME_F340",
+          "course_name" : "INTRO TO SPORT ENGINEER"
+        },
+        "ME_F341" : {
+          "comp_code" : 1270,
+          "course_code" : "ME_F341",
+          "course_name" : "PRIMEMOVERS & FLUID MACH"
+        },
+        "ME_F342" : {
+          "comp_code" : 1272,
+          "course_code" : "ME_F342",
+          "course_name" : "COMPUTER AIDED DESIGN"
+        },
+        "ME_F343" : {
+          "comp_code" : 1271,
+          "course_code" : "ME_F343",
+          "course_name" : "MECHANICAL VIBRATIONS"
+        },
+        "ME_F344" : {
+          "comp_code" : 1273,
+          "course_code" : "ME_F344",
+          "course_name" : "ENGINEERING OPTIMIZATION"
+        },
+        "ME_F366" : {
+          "comp_code" : 1680,
+          "course_code" : "ME_F366",
+          "course_name" : "LABORATORY PROJECT"
+        },
+        "ME_F376" : {
+          "comp_code" : 1697,
+          "course_code" : "ME_F376",
+          "course_name" : "DESIGN PROJECT"
+        },
+        "ME_F377" : {
+          "comp_code" : 1764,
+          "course_code" : "ME_F377",
+          "course_name" : "DESIGN PROJECT"
+        },
+        "ME_F420" : {
+          "comp_code" : 1281,
+          "course_code" : "ME_F420",
+          "course_name" : "POWER PLANT ENGINEERING"
+        },
+        "ME_F432" : {
+          "comp_code" : 1282,
+          "course_code" : "ME_F432",
+          "course_name" : "COMPUTER AIDED MANUFACT"
+        },
+        "ME_F433" : {
+          "comp_code" : 1778,
+          "course_code" : "ME_F433",
+          "course_name" : "SOLAR THERMAL PROCESS EN"
+        },
+        "ME_F441" : {
+          "comp_code" : 1283,
+          "course_code" : "ME_F441",
+          "course_name" : "AUTOMOTIVE VEHICLES"
+        },
+        "ME_F461" : {
+          "comp_code" : 1287,
+          "course_code" : "ME_F461",
+          "course_name" : "REFRIGERATION & AIRCOND"
+        },
+        "ME_F491" : {
+          "comp_code" : 1290,
+          "course_code" : "ME_F491",
+          "course_name" : "SPECIAL PROJECTS"
+        },
+        "ME_G513" : {
+          "comp_code" : 2059,
+          "course_code" : "ME_G513",
+          "course_name" : "HEATING & COOL OF BUILD"
+        },
+        "ME_G515" : {
+          "comp_code" : 410,
+          "course_code" : "ME_G515",
+          "course_name" : "COMPUT FLUID DYNAMICS"
+        },
+        "MSE_G511" : {
+          "comp_code" : 369,
+          "course_code" : "MSE_G511",
+          "course_name" : "MECHATRONICS"
+        },
+        "MSE_G512" : {
+          "comp_code" : 389,
+          "course_code" : "MSE_G512",
+          "course_name" : "MANUFACT PLANNING & CONT"
+        }
+      }
+    },
+    "Pharmacy Department" : {
+      "Head of Department" : {
+        "contact" : 9649202109,
+        "img" : "https://www.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Pilani/atishpaul/Microcontent/2013-2-1--9-39-51-536_Atish.jpg",
+        "name" : "Dr. Atish T. Paul",
+        "profile" : "http://www.bits-pilani.ac.in/Pilani/atishpaul/Profile"
+      },
+      "Handouts": {
+        "PHA_F212" : {
+          "comp_code" : 1089,
+          "course_code" : "PHA_F212",
+          "course_name" : "DISPENSING PHARMACY"
+        },
+        "PHA_F213" : {
+          "comp_code" : 1088,
+          "course_code" : "PHA_F213",
+          "course_name" : "MICROBIOLOGY"
+        },
+        "PHA_F214" : {
+          "comp_code" : 1087,
+          "course_code" : "PHA_F214",
+          "course_name" : "ANATOMY PHYSIO & HYGIENE"
+        },
+        "PHA_F215" : {
+          "comp_code" : 1863,
+          "course_code" : "PHA_F215",
+          "course_name" : "INTR TO MOL BIO & IMMUNO"
+        },
+        "PHA_F241" : {
+          "comp_code" : 1291,
+          "course_code" : "PHA_F241",
+          "course_name" : "PHARMACEUTICAL CHEMISTRY"
+        },
+        "PHA_F244" : {
+          "comp_code" : 1294,
+          "course_code" : "PHA_F244",
+          "course_name" : "PHYSICAL PHARMACY"
+        },
+        "PHA_F266" : {
+          "comp_code" : 1665,
+          "course_code" : "PHA_F266",
+          "course_name" : "STUDY PROJECT"
+        },
+        "PHA_F341" : {
+          "comp_code" : 1296,
+          "course_code" : "PHA_F341",
+          "course_name" : "PHARMACOLOGY II"
+        },
+        "PHA_F342" : {
+          "comp_code" : 1298,
+          "course_code" : "PHA_F342",
+          "course_name" : "MEDICINAL CHEMISTRY II"
+        },
+        "PHA_F343" : {
+          "comp_code" : 1301,
+          "course_code" : "PHA_F343",
+          "course_name" : "FORENSIC PHARMACY"
+        },
+        "PHA_F344" : {
+          "comp_code" : 1302,
+          "course_code" : "PHA_F344",
+          "course_name" : "NATURAL DRUGS"
+        },
+        "PHA_F366" : {
+          "comp_code" : 1682,
+          "course_code" : "PHA_F366",
+          "course_name" : "LABORATORY PROJECT"
+        },
+        "PHA_F376" : {
+          "comp_code" : 1699,
+          "course_code" : "PHA_F376",
+          "course_name" : "DESIGN PROJECT"
+        },
+        "PHA_F377" : {
+          "comp_code" : 1766,
+          "course_code" : "PHA_F377",
+          "course_name" : "DESIGN PROJECT"
+        },
+        "PHA_F414" : {
+          "comp_code" : 1304,
+          "course_code" : "PHA_F414",
+          "course_name" : "BIOPHARMACEUTICS"
+        },
+        "PHA_F416" : {
+          "comp_code" : 1306,
+          "course_code" : "PHA_F416",
+          "course_name" : "CHEM OF SYNTHETIC DRUGS"
+        },
+        "PHA_F417" : {
+          "comp_code" : 1307,
+          "course_code" : "PHA_F417",
+          "course_name" : "PHARMACOECONOMICS"
+        },
+        "PHA_F422" : {
+          "comp_code" : 1308,
+          "course_code" : "PHA_F422",
+          "course_name" : "COSMETICS SCIENCE"
+        },
+        "PHA_F491" : {
+          "comp_code" : 1724,
+          "course_code" : "PHA_F491",
+          "course_name" : "SPECIAL PROJECT"
+        },
+        "PHA_G545" : {
+          "comp_code" : 2132,
+          "course_code" : "PHA_G545",
+          "course_name" : "IPR AND PHARMACEUTICALS"
+        },
+        "PHA_G546" : {
+          "comp_code" : 2292,
+          "course_code" : "PHA_G546",
+          "course_name" : "PHRMACEUTICAL BIOSTATISTICS"
+        },
+        "PHA_G611" : {
+          "comp_code" : 67,
+          "course_code" : "PHA_G611",
+          "course_name" : "ADVANCED PHARMACOLOGY"
+        },
+        "PHA_G614" : {
+          "comp_code" : 953,
+          "course_code" : "PHA_G614",
+          "course_name" : "CLINICAL PHARMA & THERAP"
+        },
+        "PHA_G618" : {
+          "comp_code" : 767,
+          "course_code" : "PHA_G618",
+          "course_name" : "RETROSYNTHETIC ANALYSIS"
+        },
+        "PHA_G621" : {
+          "comp_code" : 677,
+          "course_code" : "PHA_G621",
+          "course_name" : "ADVANCED MEDICINAL CHEM"
+        },
+        "PHA_G632" : {
+          "comp_code" : 721,
+          "course_code" : "PHA_G632",
+          "course_name" : "DOSAGE FORM DESIGN"
+        }
+      }
+    },
+    "Physics Department" : {
+      "Head of Department" : {
+        "contact" : "+91-1596-255288",
+        "img" : "https://i.imgur.com/xGOnjzO.jpg",
+        "name" : "Dr. Raj Kumar Gupta",
+        "profile" : "https://www.bits-pilani.ac.in/pilani/raj/profile"
+      },
+      "Handouts": {
+        "PHY_F111" : {
+          "comp_code" : 1015,
+          "course_code" : "PHY_F111",
+          "course_name" : "MECH OSCILLATIONS & WAVE"
+        },
+        "PHY_F215" : {
+          "comp_code" : 1493,
+          "course_code" : "PHY_F215",
+          "course_name" : "INTRO TO ASTRO & ASTROPH"
+        },
+        "PHY_F241" : {
+          "comp_code" : 1482,
+          "course_code" : "PHY_F241",
+          "course_name" : "ELECTROMAGNETIC THEO II"
+        },
+        "PHY_F242" : {
+          "comp_code" : 1483,
+          "course_code" : "PHY_F242",
+          "course_name" : "QUANTUM MECHANICS I"
+        },
+        "PHY_F243" : {
+          "comp_code" : 1484,
+          "course_code" : "PHY_F243",
+          "course_name" : "MATH METHODS OF PHYSICS"
+        },
+        "PHY_F244" : {
+          "comp_code" : 1485,
+          "course_code" : "PHY_F244",
+          "course_name" : "MODREN PHYSICS LAB"
+        },
+        "PHY_F266" : {
+          "comp_code" : 1666,
+          "course_code" : "PHY_F266",
+          "course_name" : "STUDY PROJECT"
+        },
+        "PHY_F341" : {
+          "comp_code" : 1489,
+          "course_code" : "PHY_F341",
+          "course_name" : "SOLID STATE PHYSICS"
+        },
+        "PHY_F342" : {
+          "comp_code" : 1490,
+          "course_code" : "PHY_F342",
+          "course_name" : "ATOMIC & MOLECULAR PHY"
+        },
+        "PHY_F343" : {
+          "comp_code" : 1491,
+          "course_code" : "PHY_F343",
+          "course_name" : "NUCLEAR & PARTICLE PHY"
+        },
+        "PHY_F366" : {
+          "comp_code" : 1683,
+          "course_code" : "PHY_F366",
+          "course_name" : "LABORATORY PROJECT"
+        },
+        "PHY_F376" : {
+          "comp_code" : 1700,
+          "course_code" : "PHY_F376",
+          "course_name" : "DESIGN PROJECT"
+        },
+        "PHY_F416" : {
+          "comp_code" : 1499,
+          "course_code" : "PHY_F416",
+          "course_name" : "SOFT CONDEN MATTER PHY"
+        },
+        "PHY_F421" : {
+          "comp_code" : 1505,
+          "course_code" : "PHY_F421",
+          "course_name" : "ADV QUANTUM MECHANICS"
+        },
+        "PHY_F491" : {
+          "comp_code" : 1725,
+          "course_code" : "PHY_F491",
+          "course_name" : "SPECIAL PROJECT"
+        }
+      }
+    },
+    "Others Department" : {
+      "Handouts":{
+        "BITS_F110" : {
+          "comp_code" : 1003,
+          "course_code" : "BITS_F110",
+          "course_name" : "ENGINEERING GRAPHICS"
+        },
+        "BITS_F112" : {
+          "comp_code" : 1005,
+          "course_code" : "BITS_F112",
+          "course_name" : "TECHNICAL REPORT WRITING"
+        },
+        "BITS_F114" : {
+          "comp_code" : 1860,
+          "course_code" : "BITS_F114",
+          "course_name" : "GENERAL MATHEMATICS II"
+        },
+        "BITS_F214" : {
+          "comp_code" : 1892,
+          "course_code" : "BITS_F214",
+          "course_name" : "SCIENCE TECH & MODERNITY"
+        },
+        "BITS_F225" : {
+          "comp_code" : 1632,
+          "course_code" : "BITS_F225",
+          "course_name" : "ENVIRONMENTAL STUDIES"
+        },
+        "BITS_F311" : {
+          "comp_code" : 1332,
+          "course_code" : "BITS_F311",
+          "course_name" : "IMAGE PROCESSING"
+        },
+        "BITS_F312" : {
+          "comp_code" : 1334,
+          "course_code" : "BITS_F312",
+          "course_name" : "NEURAL NET & FUZZY LOGIC"
+        },
+        "BITS_F316" : {
+          "comp_code" : 1511,
+          "course_code" : "BITS_F316",
+          "course_name" : "NONLINEAR DYNA & CHAOS"
+        },
+        "BITS_F385" : {
+          "comp_code" : 1512,
+          "course_code" : "BITS_F385",
+          "course_name" : "INTRO TO GENDER STUDIES"
+        },
+        "BITS_F386" : {
+          "comp_code" : 1337,
+          "course_code" : "BITS_F386",
+          "course_name" : "QUANTUM INFO & COMPUTING"
+        },
+        "BITS_F421T" : {
+          "comp_code" : 1593,
+          "course_code" : "BITS_F421T",
+          "course_name" : "THESIS"
+        },
+        "BITS_F422T" : {
+          "comp_code" : 1616,
+          "course_code" : "BITS_F422T",
+          "course_name" : "THESIS"
+        },
+        "BITS_F423T" : {
+          "comp_code" : 1617,
+          "course_code" : "BITS_F423T",
+          "course_name" : "THESIS"
+        },
+        "BITS_F424T" : {
+          "comp_code" : 1619,
+          "course_code" : "BITS_F424T",
+          "course_name" : "THESIS"
+        },
+        "BITS_F441" : {
+          "comp_code" : 1811,
+          "course_code" : "BITS_F441",
+          "course_name" : "ROBOTICS"
+        },
+        "BITS_F447" : {
+          "comp_code" : 1817,
+          "course_code" : "BITS_F447",
+          "course_name" : "MULTIMEDIA COMPUTING"
+        },
+        "BITS_F449" : {
+          "comp_code" : 1820,
+          "course_code" : "BITS_F449",
+          "course_name" : "FINANCIAL ENGINEERING"
+        },
+        "BITS_F463" : {
+          "comp_code" : 1338,
+          "course_code" : "BITS_F463",
+          "course_name" : "CRYPTOGRAPHY"
+        },
+        "BITS_F464" : {
+          "comp_code" : 1339,
+          "course_code" : "BITS_F464",
+          "course_name" : "MACHINE LEARNING"
+        },
+        "BITS_F467" : {
+          "comp_code" : 1379,
+          "course_code" : "BITS_F467",
+          "course_name" : "BIOETHICS & BIOSAFETY"
+        },
+        "BITS_F482" : {
+          "comp_code" : 1641,
+          "course_code" : "BITS_F482",
+          "course_name" : "CREAT & LEAD ENTREP ORGN"
+        },
+        "BITS_F490" : {
+          "comp_code" : 1852,
+          "course_code" : "BITS_F490",
+          "course_name" : "PROJECT MANAGEMENT"
+        },
+        "DE_G522" : {
+          "comp_code" : 144,
+          "course_code" : "DE_G522",
+          "course_name" : "DESIGN PROJECTS"
+        }
+      } 
+    },
+    "Practice School Division" : {
+      "Dean" : {
+        "contact" : "91-1596-255-274",
+        "img" : "https://www.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Pilani/sguru/Microcontent/2012-9-13--11-24-8-746_001.jpg",
+        "name" : "Dr. S. Gurunarayanan",
+        "profile" : "https://www.bits-pilani.ac.in/pilani/sguru/Profile"
+      }
+    },
+    "Student Welfare Division" : {
+      "Dean" : {
+        "contact" : "91-1596-255-257",
+        "img" : "https://www.bits-pilani.ac.in/thumbnail.aspx?Height=144&Width=118&Image=Uploads/Pilani/srikanta/Microcontent/2012-9-18--10-53-38-257_img.jpg",
+        "name" : "Dr. Srikanta Routroy",
+        "profile" : "http://www.bits-pilani.ac.in/pilani/srikanta/profile"
+      }
+    }
+  },
+  "mess" : {
+    "16-11-2019" : {
+      "breakfast" : {
+        "accomps" : "TOMATO SAUCE",
+        "beverages" : "TEA  +COFFEE  +Milk",
+        "bread_jam" : "BREAD +JAM",
+        "cereals" : "CORNFLAKES",
+        "eggs" : "CHOICE OF EGG",
+        "fruits" : "BANANA ",
+        "indian_item" : "Cole Slaw S/W",
+        "misc" : "SWEET DALIYA"
+      },
+      "dinner" : {
+        "breads" : "CHAPATI",
+        "curd_or_sambar" : "KERALA RASAM ",
+        "dessert_or_drink" : "",
+        "dry_veg" : "GAJAR MUTTER DRY",
+        "pulses" : "MIX DAL ",
+        "rice" : "PLAIN RICE",
+        "salad" : "ALOO CHANNA CHAT",
+        "veg_gravy" : "PALAK MAKHANA"
+      },
+      "lunch" : {
+        "breads" : "M/S KULCHA",
+        "curd_or_sambar" : "SAMBHAR ",
+        "dessert_or_drink" : "SHIKANJI",
+        "dry_veg" : "ALOO PATICE",
+        "pulses" : "CURD / BUTTER ",
+        "rice" : "PLAIN RICE",
+        "salad" : "TOMATO SAUCE",
+        "veg_gravy" : "MUTTER RAGRA"
+      }
+    },
+    "17-11-2019" : {
+      "breakfast" : {
+        "accomps" : "TIFFIN SAMBHAR ",
+        "beverages" : "TEA+ COFFEE +Milk",
+        "bread_jam" : "BREAD +JAM",
+        "cereals" : "CORNFLAKES",
+        "eggs" : "CHOICE OF EGG",
+        "fruits" : "CUT APPLE ",
+        "indian_item" : "  M/S DOSA ",
+        "misc" : "COCONUT  CHUTNEY "
+      },
+      "dinner" : {
+        "breads" : "CHAPATI",
+        "curd_or_sambar" : "KALI MIRI RASAM",
+        "dessert_or_drink" : "",
+        "dry_veg" : "VEG 65",
+        "pulses" : "RED MASOOR ",
+        "rice" : "PLAIN RICE",
+        "salad" : "GREEN SALAD",
+        "veg_gravy" : "PUNBAJI RAJMA"
+      },
+      "lunch" : {
+        "breads" : "CHAPATI",
+        "curd_or_sambar" : "BOONDI RAITA",
+        "dessert_or_drink" : "ROSE SHERBET",
+        "dry_veg" : "KADHAI PANEER ",
+        "pulses" : "*****************",
+        "rice" : "VEG BIRYANI ",
+        "salad" : "ONION SALAD",
+        "veg_gravy" : "CHICKEN DO PIYAZA"
+      }
+    },
+    "18-11-2019" : {
+      "breakfast" : {
+        "accomps" : "MISSAL ",
+        "beverages" : "TEA+ COFFEE +Milk",
+        "bread_jam" : "BREAD + JAM ",
+        "cereals" : "CORNFLAKES",
+        "eggs" : "CHOICE OF EGG",
+        "fruits" : "WATERMELON",
+        "indian_item" : "PAO",
+        "misc" : "LEMON / ONION"
+      },
+      "dinner" : {
+        "breads" : "CHAPATI",
+        "curd_or_sambar" : "JEERA RASAM",
+        "dessert_or_drink" : "HOT BADAM MILK",
+        "dry_veg" : "SOYA METHI DRY",
+        "pulses" : "ARHAR  DAL  FRY",
+        "rice" : "PLAIN RICE",
+        "salad" : "GREEN SALAD",
+        "veg_gravy" : "SAHI GOBHI"
+      },
+      "lunch" : {
+        "breads" : "CHAPATI",
+        "curd_or_sambar" : "ANDHRA SAMBAR",
+        "dessert_or_drink" : "DOUBLE KA MEETHA",
+        "dry_veg" : "MOONG GASSHI ",
+        "pulses" : "DAL JEERA FRY",
+        "rice" : "PLAIN RICE",
+        "salad" : "GREEN SALAD",
+        "veg_gravy" : "METHI MUTTER MALAI "
+      }
+    },
+    "19-11-2019" : {
+      "breakfast" : {
+        "accomps" : "TOMATO RAITA ",
+        "beverages" : "TEA+ COFFEE +Milk",
+        "bread_jam" : "BREAD +JAM",
+        "cereals" : "CORNFLAKES",
+        "eggs" : "NO EGG",
+        "fruits" : "ORANGE",
+        "indian_item" : "RAVA PONGAL ",
+        "misc" : "**********"
+      },
+      "dinner" : {
+        "breads" : "BHATUREY",
+        "curd_or_sambar" : "RASAM",
+        "dessert_or_drink" : "SUJI PINE HALWA",
+        "dry_veg" : "PUNJABI CHHOLE ",
+        "pulses" : "PUMPKIN DRY ",
+        "rice" : "PLAIN RICE",
+        "salad" : "PAPRI CHAAT",
+        "veg_gravy" : "***************"
+      },
+      "lunch" : {
+        "breads" : "CHAPATI",
+        "curd_or_sambar" : "KERALA SAMBAR",
+        "dessert_or_drink" : "KHUS SHERBET",
+        "dry_veg" : "JEERA ALOO ",
+        "pulses" : "DAL TADKA",
+        "rice" : "PLAI RICE",
+        "salad" : "GREEN SALAD",
+        "veg_gravy" : "LOBIYA M/S"
+      }
+    },
+    "20-11-2019" : {
+      "breakfast" : {
+        "accomps" : "SEV",
+        "beverages" : " TEA+ COFFEE  +Milk",
+        "bread_jam" : "BREAD +JAM",
+        "cereals" : "CORNFLAKES",
+        "eggs" : "CHOICE OF EGG",
+        "fruits" : "PINE APPLE",
+        "indian_item" : "VEG POHA",
+        "misc" : "LEMON / ONION"
+      },
+      "dinner" : {
+        "breads" : "CHAPATI",
+        "curd_or_sambar" : "PEPPER RASAM",
+        "dessert_or_drink" : "TOMATO SOUP",
+        "dry_veg" : "KURKURE BHINDI",
+        "pulses" : "ARHAR DAL TADKA",
+        "rice" : "PLAIN RICE",
+        "salad" : "GREEN SALAD",
+        "veg_gravy" : "MASOOR PINDI"
+      },
+      "lunch" : {
+        "breads" : "CHAPATI",
+        "curd_or_sambar" : "BURANI RAITA",
+        "dessert_or_drink" : "",
+        "dry_veg" : "***********",
+        "pulses" : "DAL MAHARANI ",
+        "rice" : "VEG PULAO",
+        "salad" : "ONION SALAD",
+        "veg_gravy" : "PANEER BUTTER M/S"
+      }
+    },
+    "21-11-2019" : {
+      "breakfast" : {
+        "accomps" : "ADRAK CHUTNEY",
+        "beverages" : "TEA+ COFFEE +Milk",
+        "bread_jam" : "BREAD +JAM",
+        "cereals" : "CORNFLAKES",
+        "eggs" : "CHOICE OF EGG",
+        "fruits" : "GUAVA",
+        "indian_item" : "PUNUGULLU ",
+        "misc" : "SWEET DALIYA"
+      },
+      "dinner" : {
+        "breads" : "CHAPATI",
+        "curd_or_sambar" : "RASAM ",
+        "dessert_or_drink" : "MANCHOW SOUP",
+        "dry_veg" : "BAGARE BAINGAN",
+        "pulses" : "DAL DHABBA",
+        "rice" : "PLAIN RICE",
+        "salad" : "GREEN SALAD",
+        "veg_gravy" : "PALAK  KA KOFTA"
+      },
+      "lunch" : {
+        "breads" : "CHAPATI",
+        "curd_or_sambar" : "SAMBHAR ",
+        "dessert_or_drink" : "CHOCO BURFI",
+        "dry_veg" : "ADRAKI ALOO ",
+        "pulses" : "VEG KHICHIDI",
+        "rice" : " PLAIN RICE ",
+        "salad" : "RICE PAPAD",
+        "veg_gravy" : "KADI PAKORA"
+      }
+    },
+    "22-11-2019" : {
+      "breakfast" : {
+        "accomps" : "CURD",
+        "beverages" : "TEA+ COFFEE +Milk",
+        "bread_jam" : "BREAD +JAM",
+        "cereals" : "CORNFLAKES",
+        "eggs" : "CHOICE OF EGG",
+        "fruits" : "GRAPES",
+        "indian_item" : "METHI PARANTHA",
+        "misc" : "LAHSUN MIRCHI CHUTNEY"
+      },
+      "dinner" : {
+        "breads" : "COCONUT CHUTNEY",
+        "curd_or_sambar" : "",
+        "dessert_or_drink" : "SEVIA KHEER HOT",
+        "dry_veg" : "MASALA DOSA",
+        "pulses" : "SAMBAR ",
+        "rice" : "LEMON RICE",
+        "salad" : "CABBAGE SALAD",
+        "veg_gravy" : "MEDU VADA"
+      },
+      "lunch" : {
+        "breads" : "CHAPATI",
+        "curd_or_sambar" : "BOONDI RAITA",
+        "dessert_or_drink" : "",
+        "dry_veg" : "GOBHI MUTTER",
+        "pulses" : "DAL TADKA",
+        "rice" : "RICE",
+        "salad" : "CORN SALAD",
+        "veg_gravy" : "BLACK CHANNA M/S"
+      }
+    },
+    "23-11-2019" : {
+      "breakfast" : {
+        "accomps" : "TOMATO SAUCE",
+        "beverages" : "TEA+ COFFEE +Milk",
+        "bread_jam" : "BREAD +JAM",
+        "cereals" : "CORNFLAKES",
+        "eggs" : "CHOICE OF EGG",
+        "fruits" : "BANANA ",
+        "indian_item" : "BREAD PAKORA",
+        "misc" : "SWEET DALIYA"
+      },
+      "dinner" : {
+        "breads" : "CHAPATI",
+        "curd_or_sambar" : "RASAM ",
+        "dessert_or_drink" : "MOONG DAL HALWA",
+        "dry_veg" : "SOYA CHILLI ",
+        "pulses" : "MOONG DAL TADKA",
+        "rice" : "PLAIN RICE",
+        "salad" : "GAJAR SALAD",
+        "veg_gravy" : "PALAK CORN"
+      },
+      "lunch" : {
+        "breads" : "AJWAINI PARANTHA",
+        "curd_or_sambar" : "SAMBHAR ",
+        "dessert_or_drink" : "BOONDI JALJEERA",
+        "dry_veg" : "MIX VEG PAKORA + G CHILLI PAKORA",
+        "pulses" : "CURD / BUTTER ",
+        "rice" : "PLAIN RICE",
+        "salad" : "GREEN CHUTNEY",
+        "veg_gravy" : "MUTTER RAGRA"
+      }
+    },
+    "24-11-2019" : {
+      "breakfast" : {
+        "accomps" : "TIFFIN SAMBAR ",
+        "beverages" : "TEA+ COFFEE +Milk",
+        "bread_jam" : "BREAD +JAM",
+        "cereals" : "CORNFLAKES",
+        "eggs" : "CHOICE OF EGG",
+        "fruits" : "CUT APPLE ",
+        "indian_item" : "MASALA DOSA",
+        "misc" : "COCONUT CHUTNEY "
+      },
+      "dinner" : {
+        "breads" : "CHAPATI",
+        "curd_or_sambar" : "RASAM ",
+        "dessert_or_drink" : "JALEBI",
+        "dry_veg" : "TINDA M/S",
+        "pulses" : "DAL FRY",
+        "rice" : "PLAIN RICE",
+        "salad" : "GREEN SALAD",
+        "veg_gravy" : "STUFF TOMATO"
+      },
+      "lunch" : {
+        "breads" : "PLAIN NAAN ",
+        "curd_or_sambar" : "CUCUMBER RAITA",
+        "dessert_or_drink" : "",
+        "dry_veg" : "PANEER MAKHANI ",
+        "pulses" : "*****************",
+        "rice" : "BIRYANI RICE",
+        "salad" : "SPROUT SALAD",
+        "veg_gravy" : "KADHAI CHICKEN "
+      }
+    },
+    "25-11-2019" : {
+      "breakfast" : {
+        "accomps" : "BHAJI",
+        "beverages" : "TEA+ COFFEE +Milk",
+        "bread_jam" : "BREAD + JAM ",
+        "cereals" : "CORNFLAKES",
+        "eggs" : "CHOICE OF EGG",
+        "fruits" : "WATERMELON",
+        "indian_item" : "PAO",
+        "misc" : "ONION+LEMON"
+      },
+      "dinner" : {
+        "breads" : "CHAPATI",
+        "curd_or_sambar" : "PINEAPPLE RAITA",
+        "dessert_or_drink" : "TOMATO SOUP",
+        "dry_veg" : "AJEWAINI ARVI",
+        "pulses" : "CHANNA DAL TADKA",
+        "rice" : "PLAIN RICE",
+        "salad" : " KIMCHI SALAD",
+        "veg_gravy" : "RAJMA RASILLE"
+      },
+      "lunch" : {
+        "breads" : "CHAPATI",
+        "curd_or_sambar" : "SAMBHAR ",
+        "dessert_or_drink" : "M/S CHACCH",
+        "dry_veg" : "GAJAR MUTTER",
+        "pulses" : "DAL PALAK",
+        "rice" : "PLAIN RICE",
+        "salad" : "GREEN SALAD",
+        "veg_gravy" : "MIX KATHOL MASALA"
+      }
+    },
+    "26-11-2019" : {
+      "breakfast" : {
+        "accomps" : "SAMBAR ",
+        "beverages" : "TEA+ COFFEE +Milk",
+        "bread_jam" : "BREAD + JAM ",
+        "cereals" : "CORNFLAKES",
+        "eggs" : "NO EGG",
+        "fruits" : "ORANGE",
+        "indian_item" : "ONION UTTAPAM ",
+        "misc" : "COCONUT CHUTNEY"
+      },
+      "dinner" : {
+        "breads" : "PURI",
+        "curd_or_sambar" : "RASAM ",
+        "dessert_or_drink" : "GULAB JAMUN",
+        "dry_veg" : "ACHARI PUMPKIN",
+        "pulses" : "*****************",
+        "rice" : "PLAIN RICE",
+        "salad" : "ONION + LEMON",
+        "veg_gravy" : "PINDI CHHOLE"
+      },
+      "lunch" : {
+        "breads" : " CHAPATI ",
+        "curd_or_sambar" : "SAMBHAR ",
+        "dessert_or_drink" : "",
+        "dry_veg" : "JEERA ALOO ",
+        "pulses" : "DAL TADKA",
+        "rice" : "PLAIN RICE",
+        "salad" : "MULI SALAD",
+        "veg_gravy" : "DAL VADI RASSA"
+      }
+    },
+    "27-11-2019" : {
+      "breakfast" : {
+        "accomps" : "GREEN CHUTNEY",
+        "beverages" : "TEA+ COFFEE +Milk",
+        "bread_jam" : "BREAD +JAM",
+        "cereals" : "CORNFLAKES",
+        "eggs" : "CHOICE OF EGG",
+        "fruits" : "PINE APPLE",
+        "indian_item" : "MOONG DAL CHILA",
+        "misc" : ""
+      },
+      "dinner" : {
+        "breads" : "CHAPATI",
+        "curd_or_sambar" : "RASAM ",
+        "dessert_or_drink" : "",
+        "dry_veg" : "RAW BANANA M/S",
+        "pulses" : "DAL PANCHMEL",
+        "rice" : "PLAIN RICE",
+        "salad" : "FINGER SALAD",
+        "veg_gravy" : "METHI MUTTER MALAI"
+      },
+      "lunch" : {
+        "breads" : "CHAPATI",
+        "curd_or_sambar" : "MIX VEG RAITA",
+        "dessert_or_drink" : "MANGO SHERBET ",
+        "dry_veg" : "GREEN CHUTNEY",
+        "pulses" : "DAL MAKHANI",
+        "rice" : " JEERA RICE ",
+        "salad" : "SOYA TIKKI",
+        "veg_gravy" : "MUTTER PANEER "
+      }
+    },
+    "28-11-2019" : {
+      "breakfast" : {
+        "accomps" : "SAMBAR",
+        "beverages" : "TEA+ COFFEE +Milk",
+        "bread_jam" : "BREAD +JAM",
+        "cereals" : "CORNFLAKES",
+        "eggs" : "CHOICE OF EGG",
+        "fruits" : "GUAVA",
+        "indian_item" : "MASALA IDLI ",
+        "misc" : "COCONUT CHUTNEY"
+      },
+      "dinner" : {
+        "breads" : "GREEN CHUTNEY",
+        "curd_or_sambar" : "",
+        "dessert_or_drink" : "HOT & SOUR SOUP",
+        "dry_veg" : "PAV / LTD CHAPATI",
+        "pulses" : "ALOO WADA",
+        "rice" : "PEAS PULAO",
+        "salad" : "    LEMON +ONION ",
+        "veg_gravy" : "BHAJI "
+      },
+      "lunch" : {
+        "breads" : " CHAPATI ",
+        "curd_or_sambar" : "SAMBHAR ",
+        "dessert_or_drink" : "",
+        "dry_veg" : "MADRASI ALOO",
+        "pulses" : "MOONG CHILKA KHICHADI",
+        "rice" : " PLAIN RICE ",
+        "salad" : "ROASTED PAPAD",
+        "veg_gravy" : "PYAZ KADHI "
+      }
+    },
+    "29-11-2019" : {
+      "breakfast" : {
+        "accomps" : "SEV",
+        "beverages" : "TEA+ COFFEE +Milk",
+        "bread_jam" : "BREAD +JAM",
+        "cereals" : "CORNFLAKES",
+        "eggs" : "CHOICE OF EGG",
+        "fruits" : "GRAPES",
+        "indian_item" : "MASALA POHA",
+        "misc" : "CUT ONION + LEMON"
+      },
+      "dinner" : {
+        "breads" : " CHAPATI ",
+        "curd_or_sambar" : "RASAM ",
+        "dessert_or_drink" : "",
+        "dry_veg" : "ALOO BEANS ",
+        "pulses" : "DAL DHABBA",
+        "rice" : "PLAIN RICE",
+        "salad" : "MULI SALAD",
+        "veg_gravy" : "VEG HANDI"
+      },
+      "lunch" : {
+        "breads" : "CHAPATI",
+        "curd_or_sambar" : "ONION MINT RAITA",
+        "dessert_or_drink" : "DOUBLE KA MEETHA",
+        "dry_veg" : "MEWARI PANEER ",
+        "pulses" : "DAL MAHARANI",
+        "rice" : "ONION RICE",
+        "salad" : "CORN SALAD",
+        "veg_gravy" : ""
+      }
+    },
+    "30-11-2019" : {
+      "breakfast" : {
+        "accomps" : "ADRAK CHUTNEY",
+        "beverages" : "TEA+ COFFEE +Milk",
+        "bread_jam" : "BREAD +JAM",
+        "cereals" : "CORNFLAKES",
+        "eggs" : "CHOICE OF EGG",
+        "fruits" : "BANANA ",
+        "indian_item" : "SEVIAN UPMA",
+        "misc" : "SWEET DALIYA"
+      },
+      "dinner" : {
+        "breads" : " CHAPATI ",
+        "curd_or_sambar" : "RASAM ",
+        "dessert_or_drink" : "GAJAR HALWA",
+        "dry_veg" : "BHINDI DO PIYAZA",
+        "pulses" : "RED MASOOR DAL",
+        "rice" : "PLAIN RICE",
+        "salad" : "MACRONI SALAD",
+        "veg_gravy" : "LOBIYA M/S"
+      },
+      "lunch" : {
+        "breads" : "VEG KULCHA",
+        "curd_or_sambar" : "SAMBHAR ",
+        "dessert_or_drink" : "",
+        "dry_veg" : "TOMATO SAUCE",
+        "pulses" : "CURD / BUTTER ",
+        "rice" : "PLAIN RICE",
+        "salad" : "FINGER CHIPS",
+        "veg_gravy" : "RAGDA MUTTER"
+      }
+    }
+  },
+  "specificPeople" : {
+    "Ashu Bookstore" : {
+      "name" : "Ashu Bookstore",
+      "phone" : "850-2016-963"
+    },
+    "Chief Warden" : {
+      "name" : "Dr. Navin Singh",
+      "phone" : "969-4096-457"
+    },
+    "Director" : {
+      "name" : "Dr. Ashoke Kumar Sarkar",
+      "phone" : "91-1596-242-234"
+    },
+    "Roongta" : {
+      "name" : "Roongta Bookstore",
+      "phone" : "969-4840-027"
+    },
+    "S9" : {
+      "name" : "S9 Photocopy",
+      "phone" : "773-7536-184"
+    },
+    "Vice Chancellor" : {
+      "name" : "Dr. Souvik Bhattacharya",
+      "phone" : "91-1596-242-090"
+    }
+  }  
+}
